@@ -1,1 +1,367 @@
-Hemanth is good boy 
+Starting introduction:
+
+Hi, good afternoon. 
+Thank you for taking the time today. I’m doing well. Hope you’re doing well too.
+
+Introduction
+
+Hello, and thank you for this opportunity.
+My name is Pulletigurthi Hemanth.
+
+I have around 3 years of experience in software testing, working across Banking and Telecom domains. My expertise includes functional testing, manual testing, API testing, and BDD-based automation.
+
+I have strong experience in functional testing, including sanity and regression testing, where I ensured build stability and validated that existing functionalities were not impacted by new changes.
+
+In the Banking domain, I worked on BDD automation along with functional testing.
+In the Telecom domain, I worked on a client-facing OpenGateway project, where I performed manual and API testing using Postman for multiple business use cases.
+
+I worked in an onsite-offshore model and collaborated closely with the client and onsite team through daily stand-ups and requirement discussions, supporting defect management and ensuring quality delivery across releases.
+
+Overall, I bring strong testing fundamentals, hands-on automation and API testing experience, and effective client communication skills to ensure high-quality delivery.
+__________________________________
+
+In the Banking domain, I worked on BDD automation, where I was responsible for writing and maintaining feature files, enhancing scenarios based on requirements, executing automation scripts, and validating test results. Along with automation, I also created and executed manual test cases to support functional validation.
+
+In the Banking domain, I worked mainly on BDD‑based automation along with functional testing.
+
+My role started from understanding the business requirements and converting them into BDD feature files using Gherkin syntax.
+I wrote and maintained feature files that covered key business flows, positive and negative scenarios, and updated them whenever requirements changed. I also enhanced existing scenarios to improve coverage and stability.
+I executed automation scripts as part of regression cycles and analyzed failures to identify whether the issue was due to script problems or application defects. Based on this, I fixed scripts or raised defects with proper evidence.
+Along with automation, I created and executed manual test cases to support functional validation, especially for new features and areas not yet covered by automation. This helped ensure better overall test coverage and quality delivery.
+
+__________________________
+In the Telecom domain, I worked on two projects, including a client-facing OpenGateway project. The testing was driven by requirement and kernel/API specification documents. Based on these, I created manual test cases and performed API testing using Postman for use cases such as KYC, SIM swap, number recycle, and user profile services.
+ 
+Project 1: Manual Testing (End‑to‑End Functional Testing)
+
+In the first telecom project, I was responsible for end‑to‑end manual testing across multiple environments, including E2E testing environment, Pre‑Production, and Production.
+For every sprint, once development was completed, I performed sanity testing to verify build stability before proceeding with detailed testing. I executed test cases, validated end‑to‑end flows, and reported test results regularly.
+As part of testing, I verified critical data such as buyer information, in‑life user profile data, and other business‑critical scenarios to ensure data consistency and functional correctness across environments.
+I also handled defect reporting, re‑testing, and test status reporting for each sprint to ensure smooth release cycles.
+
+Project 2: API Testing (OpenGateway Project)
+
+The second telecom project was a client‑facing OpenGateway project, where I mainly handled API testing.
+Testing was driven by requirement documents and kernel/API specification documents. Based on these, I created manual test cases and executed API tests using Postman.
+I validated multiple business use cases such as KYC, SIM swap, number recycle, and user profile services by checking request and response structures, status codes, and business rules.
+I worked in an onsite‑offshore model, collaborated closely with the client and onsite team, and participated in daily stand‑ups and requirement discussions to ensure alignment and quality delivery.
+
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Testing fundamentals, Automation and especially communication
+ 
+
+Testing is the process of validating that the application meets business requirements, works as expected, and is free from critical defects before reaching the end user. It helps improve quality, reduce risks, and increase customer confidence.
+
+ TESTING FUNDAMENTALS – WITH EXAMPLES & STEPS
+
+1. Manual Testing
+Manual Testing is a technique to test the software that is carried out using the functions and features of an application. Which means manual testing will be check the defect manually with trying one by one function is working as expected.
+
+Fast and accurate visual feedback: It detects almost every bug in the software application and is used to test the dynamically changing GUI designs like layout, text, etc.
+
+Less expensive: It is less expensive as it does not require any high-level skill or a specific type of tool.
+
+No coding is required: No programming knowledge is required while using the black box testing method. It is easy to learn for the new testers.
+
+Efficient for unplanned changes: Manual testing is suitable in case of unplanned changes to the application, as it can be adopted easily.
+
+2. Automation Testing
+
+Automated Testing is a technique where the Tester writes scripts independently and uses suitable Software or Automation Tools to test the software. It is an Automation Process of a Manual Process. It allows for executing repetitive tasks without the use of a Manual Tester.
+
+Simplifies Test Case Execution: Automation testing can be left virtually unattended and thus it allows monitoring of the results at the end of the process. Thus, simplifying the overall test execution and increasing the efficiency of the application.
+Improves Reliability of Tests: Automation testing ensures that there is equal focus on all the areas of the testing, thus ensuring the best quality end product.
+Increases amount of test coverage: Using automation testing, more test cases can be created and executed for the application under test. Thus, resulting in higher test coverage and the detection of more bugs. This allows for the testing of more complex applications and more features can be tested.
+Minimizing Human Interaction: In automation testing, everything is automated from test case creation to execution thus there are no changes for human error due to neglect. This reduces the necessity for fixing glitches in the post-release phase.
+
+Types of Manual Testing
+Types of Software Testing
+
+Software testing ensures that applications meet requirements, function correctly, and deliver a reliable user experience. Testing types are broadly categorized into Functional, Non-Functional, and Specialized approaches, each serving distinct purposes.
+
+Functional Testing validates that the system works as intended:
+
+Unit Testing: 
+
+Verifies individual components or functions in isolation, often automated using tools like JUnit or NUnit.
+
+Integration Testing:
+ 
+Integration testing is a software testing method where components are combined and tested together as a whole.
+
+Incremental testing can be performed using:
+
+Bottom-up approach: test smaller components first, then larger ones.
+Top-down approach: test larger components first, then smaller ones.
+Sandwich approach: combination of top-down and bottom-up.
+
+System Testing: 
+
+Evaluates the complete integrated system against requirements.
+
+Acceptance Testing (UAT): 
+Confirms readiness for release through real-world business scenarios.
+
+Variants include Smoke, Sanity, End-to-End, and Happy Path testing.
+
+Regression Testing: Ensures new changes don’t break existing functionality.
+
+ Smoke Testing & Sanity Testing
+Smoke and sanity tests are quick assessments that validate basic functionality. They help determine whether deeper testing should proceed. Their purposes are similar, but their scopes differ.
+Scope	:
+Broad, covers major functionalities.(Smoke Testing)	
+Focused on specific areas affected by updates.(Sanity Testing)
+
+Agile methodology?
+Agile methodology is a way of managing projects that breaks work into small, manageable cycles, commonly known as sprints. It’s an iterative process in which teams set goals for each sprint, then build, test, and review their work with stakeholders before moving to the next sprint. After every sprint, teams reflect and look back to see if anything could be improved. Regular feedback helps teams adapt to change, deliver results sooner, and better fulfil customer needs.
+
+plan
+design
+develop
+test
+deploy 
+review
+____________________________________________________
+1️⃣ SDLC vs STLC
+Answer:
+SDLC defines the complete life cycle of a software product, starting from requirement gathering until deployment and maintenance.
+
+STLC focuses specifically on testing activities within the SDLC.
+Steps in STLC:
+
+Requirement analysis
+Test planning
+Test case design
+Test execution
+Defect reporting
+Test closure
+
+Example:
+In my Banking project, testing started during requirement analysis where we clarified acceptance criteria. Test cases were prepared early, and execution happened during each sprint.
+Result:
+Early involvement helped identify gaps sooner and avoided rework.
+
+2️⃣ Types of Testing
+Answer:
+
+Functional Testing – Verify application behavior as per requirements
+Smoke Testing – Basic build validation
+Sanity Testing – Quick testing of specific fixes
+Regression Testing – Regression Testing is a crucial part of Functional Testing, designed to ensure that new code changes, updates, or bug fixes do not negatively impact the existing functionality of the software.
+Integration Testing – Validate interaction between modules
+UAT – Final validation from business perspective
+
+Example:
+After each sprint in my Banking project, we performed regression testing on login, transactions, and dashboards.
+Result:
+This ensured stable releases with fewer production issues.
+
+3️⃣ Test Case Design Techniques
+Answer:
+I use structured techniques to ensure good coverage.
+
+Equivalence Partitioning: Divide inputs into valid/invalid sets
+Boundary Value Analysis: Test edge values
+Positive & Negative Scenarios
+
+Example:
+For an age field (18–60):
+✅ Valid → 18, 30, 60
+❌ Invalid → 17, 61
+Result:
+This approach reduces redundant tests while maximizing coverage.
+
+4️⃣ Defect Life Cycle
+Answer:
+
+New
+Assigned
+Open
+Fixed
+Retest
+Closed
+
+Optional stages: Reopened, Rejected, Deferred.
+Example:
+If a defect fails in retesting, it is reopened with clear evidence and logs.
+Result:
+Ensures transparency and faster resolution.
+
+5️⃣ Severity vs Priority
+Answer:
+
+Severity – Impact of defect on system
+Priority – Urgency to fix the defect
+
+Example:
+
+Login failure → High Severity, High Priority
+UI alignment issue → Low Severity, but may be High Priority
+
+Result:
+Helps teams prioritize fixes efficiently.
+
+6️⃣ Traceability Matrix (RTM)
+Answer:
+Traceability maps requirements to test cases to ensure full coverage.
+Steps:
+
+Each requirement is linked to test cases
+Coverage is reviewed during testing
+Used for audits and regression planning
+
+Example:
+We maintained traceability in JIRA to ensure no requirement was missed.
+Result:
+Improved coverage and audit readiness.
+________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+
+✅ AUTOMATION – SIMPLE, HIGH‑LEVEL ANSWERS
+
+7️⃣ Why Automation?
+Answer:
+Automation helps reduce manual effort, improves regression coverage, and provides faster feedback.
+What I automate:
+
+Stable and repetitive test cases
+Regression scenarios
+
+What I avoid:
+
+Frequently changing UI
+One‑time test cases
+
+
+8️⃣ Automation Framework (Conceptual)
+Answer:
+I work with structured automation frameworks that separate test logic, test data, and execution layers.
+Steps:
+
+Test scenarios written in readable format
+Reusable components handle logic
+Central execution and reporting
+
+Example:
+This approach improves readability and maintainability.
+Result:
+Reduced duplication and easier maintenance.
+
+9️⃣ Handling Dynamic Elements
+Answer:
+Dynamic elements can cause flaky tests.
+Steps I follow:
+
+Identify stable attributes
+Apply explicit wait conditions
+Avoid hardcoding values
+
+Result:
+More stable and reliable automation runs.
+
+1️⃣0️⃣ API Testing (High Level)
+Answer:
+API testing validates backend services independent of UI.
+What I validate:
+
+Status codes
+Response body
+Headers
+Error handling
+
+Example:
+In one project, API automation increased coverage by 30%.
+Result:
+Earlier defect detection and faster regression cycles.
+
+✅ COMMUNICATION – MOST IMPORTANT PART
+
+1️⃣1️⃣ How I Communicate Defects
+Answer:
+I report defects clearly with:
+
+Steps to reproduce
+Expected vs actual results
+Screenshots or logs
+Severity and priority
+
+Example:
+For a critical defect, I also inform stakeholders during stand‑ups.
+Result:
+Quick resolution and informed decision‑making.
+
+1️⃣2️⃣ Explaining Issues to Non‑Technical Stakeholders
+Answer:
+I avoid technical jargon.
+Example:
+Instead of saying “script failure,” I say:
+
+“The login is not working for users, which blocks access.”
+
+Result:
+Clear understanding and better alignment.
+
+1️⃣3️⃣ If I Don’t Know an Answer
+Best reply:
+
+“I haven’t worked on this directly, but I understand the concept and I’m eager to learn.”
+
+✅ This shows honesty and learning mindset.
+
+✅ GOLDEN STRUCTURE (Remember This)
+For every answer, follow:
+Concept → Example → Result
+
+✅ FINAL CLIENT‑READY LINE
+
+I focus on strong testing fundamentals, practical automation, and clear communication to ensure quality delivery and effective collaboration.
+
+
+
+
+
+
+
+
+Here are the Types of Manual Testing which are mainly categorized into testing types which are follows:
+
+1. White Box Testing
+White Box Testing is a software testing technique that involves testing the internal structure and workings of a software application. The tester has access to the source code and uses this knowledge to design test cases that can verify the correctness of the software at the code level.
+
+Advantages of White box Testing:
+Thorough Testing: White box testing is thorough as the entire code and structures are tested.
+Code Optimization: It results in the optimization of code removing errors and helps in removing extra lines of code.
+Early Detection of Defects: It can start at an earlier stage as it doesn’t require any interface as in the case of black box testing.
+Integration with SDLC: White box testing can be easily started in theSoftware Development Life Cycle.
+Detection of Complex Defects: Testers can identify defects that cannot be detected through other testing techniques.
+Read More: White Box Testing.
+
+2. Black Box Testing
+Black-Box Testing is a type of software testing in which the tester is not concerned with the internal knowledge or implementation details of the software but rather focuses on validating the functionality based on the provided specifications or requirements.
+
+Advantages of Black Box Testing:
+
+The tester does not need to have more functional knowledge or programming skills to implement the Black Box Testing.
+It is efficient for implementing the tests in the larger system.
+Tests are executed from the user’s or client’s point of view.
+Test cases are easily reproducible.
+It is used to find the ambiguity and contradictions in the functional specifications.
+Read More: Black-Box Testing.
+
+3. Gray Box Testing
+Gray Box Testing is a software testing technique that is a combination of theBlack Box Testing technique and the White Box Testingtechnique.
+
+In the Black Box Testing technique, the tester is unaware of the internal structure of the item being tested and in White Box Testing the internal structure is known to the tester.
+The internal structure is partially known in Gray Box Testing.
+This includes access to internal data structures and algorithms to design the test cases.
+
+Advantages of Gray Box Testing:
+
+Clarity of goals: Users and developers have clear goals while doing testing.
+Done from a user perspective: Gray box testing is mostly done from the user perspective.
+High programming skills not required: Testers are not required to have high programming skills for this testing.
+Non-intrusive: Gray box testing is non-intrusive.
+Improved product quality: Overall quality of the product is improved.
+
